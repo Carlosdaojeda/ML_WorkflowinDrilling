@@ -1,0 +1,2 @@
+[2025-09-28 19:05:08,862] [INFO] [ROP_Optimization:30] - Enter the try block
+[2025-09-28 19:05:08,862] [ERROR] [ROP_Optimization:18] - Error occurred in python script [C:\ProjectDrilling\ROP_Optimization\Exception\exception.py] line number [31] error message [division by zero]
